@@ -1,0 +1,249 @@
+/* 16 */
+.custom-btn {
+  background: transparent;
+  cursor: pointer;
+  position: relative;
+}
+
+/* 5 */
+.menu-btn {
+  border: none;
+  font-weight: 600;
+  font-size: 18px;
+}
+.menu-btn:hover {
+  color: #0a72a4;
+  transition: .4s;
+}
+/* .menu-btn:before,
+.menu-btn:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 2px;
+  width: 0;
+  background: #0a72a4;
+  transition: 400ms ease all;
+}
+.menu-btn:after {
+  right: inherit;
+  top: inherit;
+  left: 0;
+  bottom: 0;
+}
+.menu-btn:hover:before,
+.menu-btn:hover:after {
+  width: 100%;
+  transition: 800ms ease all;
+} */
+
+.student-menu {
+  font-size: 16px;
+}
+
+/* ==sidebar */
+.Leftsidebar {
+  height: calc(90vh - 50px);
+  overflow: hidden;
+  border: 1px solid rgb(63, 63, 63);
+}
+.RightSideBar {
+  height: calc(90vh - 50px);
+  overflow: scroll;
+  border: 1px solid rgb(63, 63, 63);
+}
+.MobileRightSideBar {
+  height: calc(100vh);
+  overflow: scroll;
+}
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* banner */
+
+.banner {
+  position: relative;
+  height: calc(99vh - 50px);
+  overflow: hidden;
+}
+video {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+.content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.coustomBorder {
+  width: 70px;
+  height: 5px;
+  background: #622adb;
+  border-radius: 8px;
+}
+
+
+
+
+/* ===about */
+
+.aboutCard {
+  background: url(../../assest/bg-3.jpg);
+  background-position: center center;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.education {
+  background: url(../../assest/blur-indigo.b752cf77.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: contain;
+}
+.main {
+  background: url(../../assest/bg-stroke-2.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+
+
+
+/* ===education timeline==== */
+.timeline {
+  color: #fff;
+  padding: 30px 20px;
+}
+.timeline ul {
+  list-style-type: none;
+  border-left: 2px solid #094a68;
+  padding: 0px 5px;
+}
+.timeline ul li {
+  padding: 30px 20px;
+  position: relative;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.timeline ul li span {
+  display: inline-block;
+  border-radius: 25px;
+  padding: 2px 15px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 10px;
+  color: #4abff9;
+}
+.timeline ul li .content h3 {
+  font-size: 18px;
+  padding-top: 5px;
+  font-weight: 600;
+}
+.timeline ul li .content p {
+  padding: 40px 0px 15px 0px;
+  font-size: 15px;
+  color: rgb(175, 173, 173);
+}
+.timeline ul li:before {
+  position: absolute;
+  content: '';
+  width: 10px;
+  height: 10px;
+  background-color: #247ba0;
+  border-radius: 50%;
+  left: -11px;
+  top: 28px;
+  transition: 0.5s;
+}
+
+.timeline ul li:hover:before {
+  background-color: #35baf3;
+  box-shadow: 0px 0px 10px 2px #35baf3;
+}
+@media (max-width: 300px) {
+  .timeline {
+    width: 100%;
+    padding: 30px 5px 30px 10px;
+  }
+  .timeline ul li .content h3 {
+    color: #34ace0;
+    font-size: 15px;
+  }
+}
+
+/* ===skill== */
+.skill {
+  box-shadow: 0px 0px 13px #191e37;
+}
+
+/* ====social==== */
+.social:hover{
+ color: rgb(254, 253, 253);
+}
+
+
+
+
+/* =====social for mobile===== */
+.other-device {
+  display: inherit;
+  position: fixed;
+  left: 0;
+  top: 40%;
+  z-index: 999;
+}
+.other-device .email{
+  margin: 5px 0px;
+}
+.other-device .email .email-btn .btn {
+  background-image:linear-gradient(to right,#0e152a,#1a5c9e);
+  color: white;
+  padding: 10px;
+  border-radius: 0px 50px 50px 0%;
+  position: relative;
+  transition: .4s;
+  overflow: hidden;
+  width: 38px;
+  margin-left: -10px;
+}
+
+.other-device .email .email-btn .btn:hover {
+  width: 213px;
+  background-image:linear-gradient(to left ,#1a5c9e , #45d9b0);
+}
+.other-device .email .email-btn .btn::after{
+  content: "shahedmridha01@gmail.com";
+  width: 0px;
+  position: absolute;
+  overflow: hidden;
+  transition: .4s;
+  margin-left: 10px;
+}
+.other-device .email:nth-child(2) .email-btn .btn::after{
+  content: "8801842485396";
+}
+.other-device .email .email-btn .btn:hover::after{
+  width: auto;
+}
+
+.other-device .social{
+  margin: 5px 0px;
+}
+.other-device .social .social-btn .btn {
+  background-image:linear-gradient(to right,#0e152a,#1a5c9e);
+  color: white;
+  padding: 10px;
+  border-radius: 0px 50px 50px 0%;
+  position: relative;
+  transition: .4s;
+  overflow: hidden;
+  width: 38px;
+  margin-left: -10px;
+}

@@ -1,0 +1,228 @@
+[
+  {
+    "id": 8,
+    "title": "ReSell Leptop Zone",
+    "image": "https://i.ibb.co/SJ0Fnxm/2d637444-1c59-4b88-a568-759884b1aadb.png",
+    "language": [
+      "Html",
+      "Css",
+      "Tailwind",
+      "daisy ui",
+      "React js",
+      "React Router Dom",
+      "mongodb",
+      "express",
+      "Node js",
+      "firebase",
+      "Stripe"
+    ],
+    "github": "https://github.com/shahedmridhaa/Resell-Leptop-center",
+    "liveLink": "https://resale-product.web.app/",
+    "category": "application"
+  },
+  {
+    "id": 7,
+    "title": "Plumber Service",
+    "image": "https://i.ibb.co/tsKHbVZ/c110e839-3df0-400c-8be0-8a5955df1b56.png",
+    "language": [
+      "Html",
+      "Css",
+      "Tailwind",
+      "daisy ui",
+      "React js",
+      "React Router Dom",
+      "mongodb",
+      "express",
+      "Node js",
+      "firebase"
+    ],
+    "github": "https://github.com/shahedmridhaa/Plumboy",
+    "liveLink": "https://plumbar-ae789.web.app/",
+    "category": "application"
+  },
+  
+  {
+    "id": 9,
+    "title": "Dentist Portal",
+    "image": "https://i.ibb.co/bmpkwWD/61a5bee6-4eec-43d6-bb12-d6bd5a0aa6ed.png",
+    "language": [
+      "Html",
+      "Css",
+      "Tailwind",
+      "daisy ui",
+      "React js",
+      "React Router Dom",
+      "mongodb",
+      "express",
+      "Node js",
+      "firebase"
+    ],
+    "github": "https://github.com/shahedmridhaa/doctors-Portal-client",
+    "liveLink": "https://vercel.com/dashboard",
+    "category": "application"
+  },
+  {
+    "id": 10,
+    "title": "Facebook Clone",
+    "image": "https://i.ibb.co/jLw2s42/777198bf-ab5c-446c-a59b-7f70cbf633a9.png",
+    "language": [
+      "Html",
+      "Css",
+      "Tailwind",
+      "daisy ui",
+      "React js",
+      "React Router Dom",
+      "mongodb",
+      "express",
+      "Node js",
+      "firebase"
+    ],
+    "github": "https://github.com/shahedmridhaa/dailyFace-Client",
+    "liveLink": "https://doctor-portal-dd04e.web.app/",
+    "category": "application"
+  },
+  {
+    "id": 11,
+    "title": "Crud Application",
+    "image": "https://i.ibb.co/LQTVQSJ/9fc1f839-c074-407e-9e7a-7ebbb62568a0.png",
+    "language": [
+      "Html",
+      "Css",
+      "react-bootstrap",
+      "React js",
+      "express",
+      "firebase"
+    ],
+    "github": "https://github.com/shahedmridhaa/User-form-client",
+    "liveLink": "https://user-form-5ffe5.web.app/",
+    "category": "application"
+  },
+  {
+    "id": 12,
+    "title": "E-larning webSite",
+    "image": "https://i.ibb.co/Rjkm4jg/a44bbe95-6292-4cee-8912-16608c610ab2.png",
+    "language": ["Html", "Css", "Tailwind", "daisy ui", "React js", "firebase"],
+    "github": "https://github.com/shahedmridhaa/Sikto-learning",
+    "liveLink": "https://skito-learning.web.app/home",
+    "category": "application"
+  },
+ 
+  {
+    "id": 43,
+    "title": "Finix loan and Funding Template",
+    "image": "https://i.ibb.co/gZbN17t/ef5c9768-1871-474f-99e0-dcfb5c2d6ab3.png",
+    "language": ["Html", "Css"],
+    "github": "https://github.com/shahedmridhaa/Finix-web-template",
+    "liveLink": "https://finix-web-template.netlify.app/",
+    "category": "template"
+  },
+  {
+    "id": 18,
+    "title": "Tailwind web Template",
+    "image": "https://i.ibb.co/dPQ1WCL/screencapture-tailwind-website-wheat-vercel-app-2023-02-24-01-07-03.png",
+    "language": ["Html", "Css"],
+    "github": "https://github.com/shahedmridhaa/tailwind-website/",
+    "liveLink": "https://tailwind-website-oa95.vercel.app/",
+    "category": "template"
+  },
+  {
+    "id": 4,
+    "title": "Elarning web Template",
+    "image": "https://i.ibb.co/80zPysD/b1d97c68-2666-488d-88f3-d85b7dbd8e6b.png",
+    "language": ["Html", "Css"],
+    "github": "https://github.com/shahedmridhaa/E-larning-web-Lfwf-Academy",
+    "liveLink": "https://lfwf-academy.netlify.app/",
+    "category": "template"
+  },
+  {
+    "id": 5,
+    "title": "Medical Laboratory research",
+    "image": "https://i.ibb.co/m65KLxs/8bde1762-c4d9-40b8-b5fe-34057a993436.png",
+    "language": ["Html", "Css"],
+    "github": "https://github.com/shahedmridhaa/Medical-web-template",
+    "liveLink": "https://medical-web-template.netlify.app/",
+    "category": "template"
+  },
+  {
+    "id": 6,
+    "title": "Marketing Agency",
+    "image": "https://i.ibb.co/TBP0fRw/2ec22ad0-f7f2-4282-a7af-8915d4335605.png",
+    "language": ["Html", "Css"],
+    "github": "https://github.com/shahedmridhaa/Marketing-Agency-template",
+    "liveLink": "https://marketing-seo-agency-template.netlify.app/",
+    "category": "template"
+  },
+  {
+    "id": 13,
+    "title": "Money Master",
+    "image": "https://i.ibb.co/wWj3F1B/73790f3a-b99c-4178-b87b-100ae040c450.png",
+    "language": ["Html", "Css", "Js"],
+    "github": "https://github.com/shahedmridhaa/Money-Master/",
+    "liveLink": "https://money-master-seven.vercel.app/",
+    "category": "short_Project"
+  },
+  {
+    "id": 14,
+    "title": " Random Pin Generator",
+    "image": "https://i.ibb.co/MkMzBsX/c71b238e-6e65-4697-bee0-1d9ad997ca6b.png",
+    "language": ["Html", "Css", "Js"],
+    "github": "https://github.com/shahedmridhaa/Random-pin-generate/",
+    "liveLink": "https://random-pin-generate.vercel.app/",
+    "category": "short_Project"
+  },
+  {
+    "id": 15,
+    "title": " Bank Deposit",
+    "image": "https://i.ibb.co/nD5ywq0/50d6d5bd-0d53-4170-b0e4-93eb08ea0fb5.png",
+    "language": ["Html", "Css", "Js"],
+    "github": "https://github.com/shahedmridhaa/bank-calculation/",
+    "liveLink": "https://bank-calculation.vercel.app/bank.html",
+    "category": "short_Project"
+  },
+  {
+    "id": 16,
+    "title": " Discount Price",
+    "image": "https://i.ibb.co/FXX7gGd/078bd041-8855-4308-a4f4-260e3779b81d.png",
+    "language": ["Html", "Css", "Js"],
+    "github": "https://github.com/shahedmridhaa/discount-price/",
+    "liveLink": "https://bank-calculation-s5bv.vercel.app/",
+    "category": "short_Project"
+  },
+  {
+    "id": 17,
+    "title": "Master-Study",
+    "image": "https://i.ibb.co/prKs5JF/screencapture-master-study-vercel-app-2023-02-24-01-00-38.png",
+    "language": ["Html", "Css"],
+    "github": "https://github.com/shahedmridhaa/Master-study/",
+    "liveLink": "https://master-study.vercel.app/",
+    "category": "template"
+  },
+  
+  {
+    "id": 19,
+    "title": "Node Regestration Form",
+    "image": "https://i.ibb.co/hm4KWbS/34464508-ccdf-42a7-a318-a23ecf4dd37e.png",
+    "language": ["Html", "Css","mongoose","jsonwebtoken","express","bcryptjs"],
+    "github": "https://github.com/shahedmridhaa/Nodejs_signUp_Login-client",
+    "liveLink": "https://nodejs-sign-up-login.vercel.app/",
+    "category": "short_Project"
+  },
+  {
+    "id": 1,
+    "title": "Clock",
+    "image": "https://i.ibb.co/60yNFb8/414e10de-911c-4890-a887-c21e71a8e615.png",
+    "language": ["Html", "Css"],
+    "github": "https://github.com/shahedmridhaa/clock-design",
+    "liveLink": "https://red-clock.netlify.app/",
+    "category": "short_Project"
+  },
+  {
+    "id": 2,
+    "title": "Calculator",
+    "image": "https://i.ibb.co/sqwStsV/3db1eb42-b81b-43f4-9aa3-08a1b652492e.png",
+    "language": ["Html", "Css"],
+    "github": "https://github.com/shahedmridhaa/Calcluletor",
+    "liveLink": "https://shahedmridhaa.github.io/Calcluletor/",
+    "category": "short_Project"
+  }
+]
