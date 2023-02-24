@@ -11,6 +11,7 @@ const Work = () => {
     })
     setProject(updateItems)
   }
+  console.log(project);
 
   return (
     <div className="p-4">

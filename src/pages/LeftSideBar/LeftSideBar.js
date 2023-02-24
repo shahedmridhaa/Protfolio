@@ -33,7 +33,7 @@ const LeftSideBar = () => {
       <div className="flex justify-center">
         <ul className="py-16 ">
           <li className="mb-5 menu-btn custom-btn flex items-center">
-            <span className="w-8 text-lg rounded-full shadow-md shadow-gray-700 flex justify-center py-2 ">
+            <span className="w-8 text-lg  rounded-full shadow-md shadow-gray-700 flex justify-center py-2 ">
               <BiUser />
             </span>
             <Link className="ml-5 text-lg font-normal" to="/about">

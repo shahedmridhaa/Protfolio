@@ -29,7 +29,7 @@ const Header = () => {
   )
 
   return (
-    <div className=" bg-transparent ">
+    <div className=" bg-black fixed ">
       <div className="md:hidden">
         {/* <div className="navbar-start"> */}
         {/* <div className="dropdown">
@@ -46,7 +46,7 @@ const Header = () => {
     </ul>
   </div>  */}
 
-        <div className="btm-nav  ">
+        <div className="btm-nav">
           <Link to="/about">
             <span className="text-xl">
               <BiUser />
